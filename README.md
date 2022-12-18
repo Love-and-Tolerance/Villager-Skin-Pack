@@ -51,7 +51,7 @@ The skins in this pack were made by the community for anyone to use, this pack w
 [Issues]: https://issues.love-tolerance.com
 [Download]: https://download.love-tolerance.com
 
-[nomit location]: assets/minelittlepony/textures/entity/pony
+[nonmit location]: assets/minelittlepony/textures/entity/pony
 [community skin pack]: https://github.com/MineLittlePony/Community-Skin-Pack
 [license]: LICENSE
 
